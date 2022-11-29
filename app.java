@@ -5,3 +5,5 @@
 #This is fe application
 #Use guided scripts
 #Bugs removed
+print("background theme automated")
+print("hello, $user please choose a background")
