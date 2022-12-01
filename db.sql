@@ -1,3 +1,4 @@
 database connection
 db-password=$password
-db-username=$usernae
+db-username=$username 
+echo pwd
